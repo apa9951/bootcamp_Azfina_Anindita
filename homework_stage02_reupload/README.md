@@ -1,4 +1,7 @@
-# Bootcamp Repository
+
+# bootcamp_Azfina_Anindita
+
+# Bootcamp_Repository
 
 ## Folder Structure
 - **homework/** → All homework contributions will be submitted here.
@@ -9,9 +12,6 @@ GitHub.
 ## Homework Folder Rules
 - Each homework will be in its own subfolder (`homework0`, `homework1`, etc.)
 - Include all required files for grading.
-  
+
 ## Project Folder Rules
 - Keep project files organized and clearly named.
-
-## Homework Readme
-Each homework has Readme.md with more detailed explanation

@@ -36,7 +36,7 @@ To assess the effect of outliers:
 3. Histogram, Boxplot, and Sensitivy Analysis in Data/Processed Folder
 
 
-## Assumption for Data Cleansing
+## Assumption for Data Processing
 1. Daily returns can be modeled as Gaussian with occasional extreme shocks.
 2. IQR is robust for skewed data; Z-score assumes approximate normality.
 3. Winsorization thresholds (5% and 95%) are sufficient to mitigate extremes without over-censoring.
